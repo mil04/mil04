@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**mil04/mil04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍🎓 I'm studying Data Science at [Warsaw University of Technology](https://ww2.mini.pw.edu.pl/studia/magisterskie/inzynieria-i-analiza-danych/).
 
-Here are some ideas to get you started:
+👀 I'm interested in machine learning, data visualization, statistics, and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Some of my projects:
+- [Alcohol Consumption](https://github.com/mil04/Alcohol-Consumption) - Project on alcohol consumption analysis using R.
+- [XML Fake Data Generator](https://github.com/mil04/XML-fake-data-generator) - Fake data generator written in Java.
+- [YouTube Data Analysis](https://github.com/mil04/YouTube-data-analysis) - Analysis of YouTube usage using R.
+
+📫 Reach me:
+- By email: poghosyan.milanna@gmail.com
